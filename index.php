@@ -33,8 +33,8 @@ th {
 </div>
 
 <div class="content">
-  <h1 style="text-align: center">XCompany</h1>
-  <p>Welcome to xCompany</p>
+  <h1 style="text-align: center">Tailor Management System</h1>
+  <p><h3>Welcome to Tailor Management System</h3></p>
   <?php
 
   $con=mysqli_connect("localhost","root","","db");

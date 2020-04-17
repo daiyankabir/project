@@ -122,7 +122,7 @@ if(isset($_POST['login']))
 		$row=mysqli_fetch_array($result);
 		$_SESSION['userName']=$row['userName'];
 		$_SESSION['name']=$row['name'];
-		header("Location:nhome.php");
+		header("Location:ntailor.php");
 	}
 	else
 	{
